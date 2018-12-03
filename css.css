@@ -200,8 +200,8 @@ text-align: center;
 }
 
 }
-@media (max-width:769px){
-  #nText1,#nText2,#nText3{
+@media (max-width:768px){
+  #nText1,#nText2,#nText3,#ba{
     display: inline;
   }
   }
